@@ -2,3 +2,4 @@ line 1
 line dev 2
 line dev 3
 line dev 4
+line master 5
